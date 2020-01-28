@@ -1,1 +1,2 @@
-// Paste Discription
+//  Automating retail marketing by analysing consumer
+    behaviour for Market Segmentation
