@@ -1,1 +1,1 @@
-// Paste Discription
+{ IImplementing business trends for coorporate identity services }
