@@ -1,1 +1,3 @@
 // Implementing E-shopping strategies for Market Orientation.
+
+project
